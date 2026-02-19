@@ -1,4 +1,4 @@
-# Ovencord
+# 𝗢 𝗩 𝗘 𝗡 𝗖 𝗢 𝗥 𝗗
 ### Cooking the future of Discord development.
 
 <p align="center">
@@ -12,7 +12,7 @@ We believe that emulation is the enemy of performance. Our mission is to
 eliminate the legacy Node.js overhead from Discord tools, replacing it with 
 pure, Zig-powered Bun native implementations.
 
-#### Our Philosophy:
+### **Our Philosophy:**
 - **Native-First:** We don't just "support" Bun; we build FOR Bun.
 - **Zero-Bloat:** If it's legacy and slow, it's gone.
 - **Speed is a Feature:** We optimize for microseconds and megabytes.
